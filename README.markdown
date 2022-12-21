@@ -1,4 +1,3 @@
 # Chat UI Responsive
 
-Created By Islaturrahman 
-
+smartchat with AI system from branishop authenctication
